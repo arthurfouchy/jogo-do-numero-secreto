@@ -1,6 +1,8 @@
 # Jogo do Número Secreto
 
-Este é um jogo simples feito em JavaScript, HTML e CSS, onde o objetivo é adivinhar um número secreto gerado aleatoriamente pelo sistema.
+🚀 **Jogue agora:** [https://arthurfouchy.github.io/jogo-do-numero-secreto/](https://arthurfouchy.github.io/jogo-do-numero-secreto/)
+
+Este é um jogo simples feito em JavaScript, HTML e CSS, onde o objetivo é adivinhar um número secreto...
 
 ## Como jogar
 
